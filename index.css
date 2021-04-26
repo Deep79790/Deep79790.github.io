@@ -1,0 +1,114 @@
+body{
+    margin: 0mm;
+}
+.bgt{
+    background-color: rgb(48, 46, 46);
+    width: 100%;
+    height: 2cm;
+    margin-top: 0mm;
+    position: fixed;
+}
+.bgt table{
+    background-color: rgb(48, 46, 46);
+    color: rgb(253, 251, 251);
+    padding: 5mm;
+   width: 50%;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 5mm;
+}
+.bgt th:hover{
+    background-color: white;
+    color:black;
+    border-radius: 5px;
+    
+}
+.kl {
+    background-image: url(images/Guitar.jpg);
+    background-size: cover;
+    height: 14cm;
+    padding-top: 5cm;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(240, 211, 158);
+    font-size: 7mm;
+}
+.kl h1,h2,p{
+    padding-bottom: 3mm;
+}
+
+.lp{
+    background-color: rgb(117, 115, 110);
+    width: 100%;
+    height: 28cm;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(17, 15, 10);
+    font-size: 7mm;
+    padding-top: 5mm;
+}
+.but {
+    border-radius: 5px;
+    padding: 16px;
+    font-size: 5mm;
+    font-weight: bold;
+    color: rgb(51, 53, 53);
+    background-color: rgb(5, 190, 129);
+}
+.but:hover{
+    background-color: brown;
+    color: aliceblue;
+}
+.wrt{
+    background-color: aliceblue;
+    width: 100%;
+    height: 7cm;
+    text-align: center;
+    padding-top: 5mm;
+    padding-bottom: 2cm;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.rt{
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 5mm;
+    font-weight: bold;
+    color: rgb(188, 211, 211);
+    background-color: rgb(240, 71, 71);
+}
+.rt:hover{
+    color: rgb(26, 32, 32);
+    background-color: rgb(217, 221, 224);
+}
+.grt{
+    background-image: url(images/evening.jpg);
+    background-size: cover;
+    margin: 5mm 3cm 0mm 3cm;
+    border-radius: 50px;
+    border-style: dotted;
+    padding: 25mm 8mm 0mm 8mm;
+    height: 15cm;
+    color: aliceblue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.rtpc{
+    padding-top: 15mm;
+    color: rgb(145, 148, 153);
+}
+.deep{
+    background-color: rgb(75, 69, 69);
+    width: 100%;
+height: 5cm;
+}
+.deep table {
+    width: 100%;
+}
+.deep thead{
+   background-color: beige;
+    border-style: groove;
+    border-radius: 10px;
+}
+.deep tbody{
+   text-align: center;
+   color: aliceblue;
+}
